@@ -1,0 +1,3 @@
+javascript events mousemove, change for realtime changes
+css variables
+setting css variables through javascript (setProperty)

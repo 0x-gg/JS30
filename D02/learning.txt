@@ -1,0 +1,4 @@
+css transform rotate property
+css transitions
+cubic-bezier animations in css through javascript
+calc() in css for math
